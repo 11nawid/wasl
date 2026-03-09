@@ -1,2 +1,4 @@
 size: 32 mb
 version: v3.5
+supported_devices: Android mobiles
+current_status: Testing phase
